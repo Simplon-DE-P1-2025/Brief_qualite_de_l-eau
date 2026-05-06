@@ -1,0 +1,13 @@
+# Données — jamais versionnées
+data/
+*.db
+*.csv
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Environnements
+.env
+*.pyc
